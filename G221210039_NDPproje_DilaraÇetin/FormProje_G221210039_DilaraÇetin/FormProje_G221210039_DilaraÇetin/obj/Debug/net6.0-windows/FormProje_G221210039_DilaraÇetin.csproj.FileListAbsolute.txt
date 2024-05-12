@@ -1,0 +1,17 @@
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\bin\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.exe
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\bin\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.deps.json
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\bin\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.runtimeconfig.json
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\bin\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.dll
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\bin\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.pdb
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.csproj.AssemblyReference.cache
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.Form1.resources
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.csproj.GenerateResource.cache
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.AssemblyInfoInputs.cache
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.AssemblyInfo.cs
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.csproj.CoreCompileInputs.cache
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.dll
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\refint\FormProje_G221210039_DilaraÇetin.dll
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.pdb
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\FormProje_G221210039_DilaraÇetin.genruntimeconfig.cache
+C:\Users\Monster PC\source\repos\FormProje_G221210039_DilaraÇetin\FormProje_G221210039_DilaraÇetin\obj\Debug\net6.0-windows\ref\FormProje_G221210039_DilaraÇetin.dll
